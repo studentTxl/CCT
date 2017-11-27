@@ -1,8 +1,8 @@
 
 /**********************************************************
 *    > File Name: convertcomment.c
-*    > Author: 51CC_baosongshan
-*    > Mail: baosongshan2006@163.com 
+*    > Author: tongxianglong
+*    > Mail: studentTxl@163.com 
 *    > Created Time: 2017年09月23日 星期六 09时55分30秒
 **********************************************************/
 
